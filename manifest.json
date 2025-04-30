@@ -1,7 +1,7 @@
 
 {
-  "name": "カーポート柱寸法計算（テスト版）",
-  "short_name": "柱寸法テスト",
+  "name": "カーポート柱寸法計算",
+  "short_name": "柱寸法計算",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
