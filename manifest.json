@@ -1,0 +1,16 @@
+
+{
+  "name": "カーポート柱寸法計算（テスト版）",
+  "short_name": "柱寸法テスト",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#009dde",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
